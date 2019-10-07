@@ -2,7 +2,13 @@
 layout: default
 ---
 
+<h2 id="draft-against-yourself">Don’t draft against yourself.</h2>
+
+When the other side isn't happy with your proposal, or wants to add a new term, have them draft it.  Don't try to guess what they will approve.
+
 <h2 id="put-off">Don’t put off today what you can screw up tomorrow.</h2>
+
+Unless you're absolutely sure that an ill-fitting term won't apply in your deal, don't leave it as-is.
 
 <h2 id="blank-checks">Don’t sign blank checks.</h2>
 
