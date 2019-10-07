@@ -1,0 +1,10 @@
+title: K.E. Mitchell's Rulebook
+description: business law rules to live by (and break)
+url: https://rulebook.kemitchell.com
+author: Kyle E. Mitchell
+homepage: https://kemitchell.com
+exclude:
+- vendor
+- Gemfile
+- Gemfile.lock
+theme: minima
