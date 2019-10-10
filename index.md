@@ -2,6 +2,10 @@
 layout: default
 ---
 
+<h2 id="lawyers-businesspeople">Lawyers talk to lawyers.  Businesspeople talk to businesspeople.</h2>
+
+<p>When lawyers address businesspeople on the other side of a deal, the businessperson's lawyer should be present.  If the lawyers is speaking on a call, the other side’s lawyer should also be on the call.  If the lawyer is sending an e-mail, the other side’s lawyer should be copied.</p>
+
 <h2 id="draft-against-yourself">Don’t draft against yourself.</h2>
 
 When the other side isn't happy with your proposal, or wants to add a new term, have them draft it.  Don't try to guess what they will approve.
