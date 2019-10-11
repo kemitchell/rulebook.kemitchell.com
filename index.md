@@ -6,8 +6,6 @@ This page lists some general rules of law and negotiation that have proved their
 
 --- K.E.M.
 
----
-
 <h2 id="turns">Take turns.</h2>
 
 When negotiating a written agreement, one side proposes terms, then the sides take turns sending edited copies of the terms until they reach a version they are ready to sign or walk away from the deal.
